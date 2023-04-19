@@ -1,0 +1,2 @@
+add wave -position end sim:/micro_tb/tpv/*
+run -all

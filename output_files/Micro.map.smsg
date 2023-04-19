@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at top.sv(5): object "N" differs only in case from object "n" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top.sv Line: 5
+Info (10281): Verilog HDL Declaration information at top_verif.sv(3): object "N" differs only in case from object "n" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top_verif.sv Line: 3
+Info (10281): Verilog HDL Declaration information at top_verif.sv(10): object "hex0" differs only in case from object "HEX0" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top_verif.sv Line: 10
+Info (10281): Verilog HDL Declaration information at top_verif.sv(10): object "hex1" differs only in case from object "HEX1" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top_verif.sv Line: 10
+Info (10281): Verilog HDL Declaration information at top_verif.sv(10): object "hex2" differs only in case from object "HEX2" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top_verif.sv Line: 10
+Info (10281): Verilog HDL Declaration information at top_verif.sv(10): object "hex3" differs only in case from object "HEX3" in the same scope File: C:/Users/PABLO/Desktop/MicroFase4_Final_restored/top_verif.sv Line: 10
